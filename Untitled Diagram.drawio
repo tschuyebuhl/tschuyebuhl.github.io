@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T11:24:53.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ggdVI2lMHfjfFy9z8gJ2" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T11:33:58.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="G83-JArcU88WQ_rw2Vbg" version="18.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4669" dy="1209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5641" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="dkLaDtRhMoR-S31tI9BL-0" value="Recepta" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="1760" width="260" height="446" as="geometry" />
+          <mxGeometry x="-1325" y="2350" width="260" height="446" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-1" value="+ imie: string&#xa;+ nazwisko: string&#xa;+ tytuł: " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dkLaDtRhMoR-S31tI9BL-0">
           <mxGeometry y="30" width="260" height="110" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry y="290" width="260" height="156" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-4" value="Skierowanie" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="1754" width="260" height="446" as="geometry" />
+          <mxGeometry x="-985" y="2344" width="260" height="446" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-5" value="+ imie: string&#xa;+ nazwisko: string&#xa;+ tytuł: " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dkLaDtRhMoR-S31tI9BL-4">
           <mxGeometry y="30" width="260" height="110" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry y="290" width="260" height="156" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-8" value="Pacjent" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1350" y="260" width="260" height="446" as="geometry" />
+          <mxGeometry x="1490" y="790" width="260" height="446" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-9" value="+ imie: string&#xa;+ nazwisko: string&#xa;+ tytuł: " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dkLaDtRhMoR-S31tI9BL-8">
           <mxGeometry y="30" width="260" height="110" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry y="290" width="260" height="156" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-12" value="Użytkownik" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="30" width="260" height="446" as="geometry" />
+          <mxGeometry x="810" y="190" width="260" height="446" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-13" value="+ imie: string&#xa;+ nazwisko: string&#xa;+ id : UUID  &#xa;+ email: string &#xa;+ numer_telefonu: integer " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dkLaDtRhMoR-S31tI9BL-12">
           <mxGeometry y="30" width="260" height="110" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry y="290" width="260" height="156" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-16" value="Administrator" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="150" width="260" height="446" as="geometry" />
+          <mxGeometry x="90" y="790" width="260" height="446" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-17" value="+ imie: string&#xa;+ nazwisko: string&#xa;+ tytuł: " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dkLaDtRhMoR-S31tI9BL-16">
           <mxGeometry y="30" width="260" height="110" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry y="290" width="260" height="156" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-36" value="Konto" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1700" y="74" width="260" height="446" as="geometry" />
+          <mxGeometry x="1890" y="120" width="260" height="446" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-37" value="+ imie: string&#xa;+ nazwisko: string&#xa;+ tytuł: " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dkLaDtRhMoR-S31tI9BL-36">
           <mxGeometry y="30" width="260" height="110" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry y="290" width="260" height="156" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-48" value="Dokumentacja medyczna" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-510" y="1760" width="260" height="446" as="geometry" />
+          <mxGeometry x="-1165" y="1810" width="260" height="446" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-49" value="+ imie: string&#xa;+ nazwisko: string&#xa;+ tytuł: " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dkLaDtRhMoR-S31tI9BL-48">
           <mxGeometry y="30" width="260" height="110" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry y="290" width="260" height="156" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-52" value="Karta obserwacji klinicznej" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-130" y="1754" width="260" height="446" as="geometry" />
+          <mxGeometry x="-1695" y="2344" width="260" height="446" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-53" value="+ imie: string&#xa;+ nazwisko: string&#xa;+ tytuł: " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dkLaDtRhMoR-S31tI9BL-52">
           <mxGeometry y="30" width="260" height="110" as="geometry" />
@@ -221,7 +221,7 @@
           <mxGeometry y="290" width="260" height="156" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-72" value="Skierowanie" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="1754" width="260" height="446" as="geometry" />
+          <mxGeometry x="-625" y="2344" width="260" height="446" as="geometry" />
         </mxCell>
         <mxCell id="dkLaDtRhMoR-S31tI9BL-73" value="+ imie: string&#xa;+ nazwisko: string&#xa;+ tytuł: " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dkLaDtRhMoR-S31tI9BL-72">
           <mxGeometry y="30" width="260" height="110" as="geometry" />
